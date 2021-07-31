@@ -8,4 +8,3 @@
 |Week 3|Seaborn, Matplotlib|데이터 시각화 패키지|O|
 |Week 4|HTML, CSS|웹 언어||
 |Week 5|Crawling - Naver API, Instagram|네이버웹툰 댓글, 인스타 해쉬태그|O|
-ic
